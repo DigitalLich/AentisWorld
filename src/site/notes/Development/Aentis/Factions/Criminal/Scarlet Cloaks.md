@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/aentis/factions/criminal/scarlet-cloaks/","tags":["Factions","FC"],"created":"2025-02-25T14:04:57.848-08:00","updated":"2025-02-25T17:04:25.484-08:00"}
+{"dg-publish":true,"permalink":"/development/aentis/factions/criminal/scarlet-cloaks/","tags":["Factions","FC"],"created":"2025-02-25T14:04:57.848-08:00","updated":"2025-02-25T17:04:48.079-08:00"}
 ---
 
 Founding Date: 662
@@ -40,3 +40,29 @@ There's 4 Families lead by their respective figure head, a [[Development/Aentis/
 ## Public Agenda
 
 Motto/Slogan: The price one must pay for power is blood.
+Principles/Creed/Objectives:
+
+---
+## Culture
+
+Ideals:
+Values:
+Symbolism:
+
+Recruitment:
+
+---
+## History
+
+Importance:
+
+Conflicts:
+
+---
+## Assets
+
+Earnings:
+Expenses:
+
+---
+Notes:
