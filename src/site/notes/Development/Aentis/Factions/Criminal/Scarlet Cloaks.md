@@ -31,7 +31,7 @@ class id1,id2,id3,id4,id5,id6,id7,id8 internal-link;
 ```
 
 There's 4 Families lead by their respective figure head, a [[Development/Aentis/Data/Political/Titles & Ranks/Criminal/Scarlet Cloaks/Dhonne\|Dhonne]]:
-- [[Development/Aentis/Characters/Factions/Criminal/Scarlet Cloaks/Syone Supleto\|Syone Supleto]]: In charge of [[Development/Aentis/Settlements/Hestein Empire/Wheattalon Duchy/Hazelminster County/HM Villages/Galepoint\|Galepoint]]
+- [[Development/Aentis/Characters/Factions/Criminal/Scarlet Cloaks/Syone Supleto\|Syone Supleto]]: In charge of [[Development/Aentis/Settlements/Hestein Empire/Wheattalon Duchy/Hazelminster County/HM Towns/Galepoint\|Galepoint]]
 - [[Development/Aentis/Characters/Factions/Criminal/Scarlet Cloaks/Rathine Tezhare\|Rathine Tezhare]]: In charge of [[Development/Aentis/Settlements/Hestein Empire/Wheattalon Duchy/Hazelminster County/HM Villages/Prim\|Prim]]
 - [[Development/Aentis/Characters/Factions/Criminal/Scarlet Cloaks/Kyuta Phaggal\|Kyuta Phaggal]]: In charge of [[Development/Aentis/Settlements/Hestein Empire/Wheattalon Duchy/Hazelminster County/HM Villages/Dulch\|Dulch]] & [[Development/Aentis/Settlements/Hestein Empire/Wheattalon Duchy/Hazelminster County/HM Villages/Kamell\|Kamell]]
 - [[Development/Aentis/Characters/Factions/Criminal/Scarlet Cloaks/Ghattar Burtado\|Ghattar Burtado]]: In charge of [[Development/Aentis/Settlements/Hestein Empire/Wheattalon Duchy/Hazelminster County/HM Villages/Quillbluff\|Quillbluff]] & [[Development/Aentis/Settlements/Hestein Empire/Wheattalon Duchy/Hazelminster County/HM Villages/Thauma\|Thauma]]
